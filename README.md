@@ -6,11 +6,11 @@
 
 2. 최명윤 https://myeongyunchoi.github.io/portfolio/
 
-3. 장태호 https://jthlesi.github.io/portfolio/
+3. 김동현(98) https://kimddddh98.github.io/portfolio/
 
-4. 김동현(98) https://kimddddh98.github.io/portfolio/
+4. 장태호 https://jthlesi.github.io/portfolio/
 
-5. 임정규 https://tuesdayy96.github.io/LIM/#/
+5. 임정규 https://tuesdayy96.github.io/LIM/
 
 6. 최지원 https://jiwonch.github.io/portfolio/
 
