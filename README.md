@@ -16,9 +16,9 @@
 
 7. 김진성 https://kimjinseong97.github.io/Portfolio/
 
-고경림 https://gogyounglim.github.io/project8/
+8. 황기쁨 https://happy741.github.io/project6/
 
-황기쁨 https://happy741.github.io/project6/
+고경림 https://gogyounglim.github.io/project8/
 
 김동현(99) https://kdh990315.github.io/Portfolio/
 
