@@ -14,7 +14,7 @@
 
 6. 최지원 https://jiwonch.github.io/portfolio/
 
-김진성 https://kimjinseong97.github.io/Portfolio/
+7. 김진성 https://kimjinseong97.github.io/Portfolio/
 
 고경림 https://gogyounglim.github.io/project8/
 
