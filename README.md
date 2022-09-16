@@ -18,7 +18,7 @@
 
 8. 황기쁨 https://happy741.github.io/project6/
 
-고경림 https://gogyounglim.github.io/project8/
+9. 고경림 https://gogyounglim.github.io/project8/
 
 김동현(99) https://kdh990315.github.io/Portfolio/
 
