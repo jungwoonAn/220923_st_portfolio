@@ -20,6 +20,14 @@
 
 9. 고경림 https://gogyounglim.github.io/project8/
 
+10. 이설 https://seol1059.github.io/Portfolio/
+
+11. 조인제 https://tmfhdn.github.io/Final/
+
+12. 장희선 https://gpop917.github.io/portfolio/
+
+13. 최진규 https://lemondy97.github.io/portfoiloWrap/
+
 김동현(99) https://kdh990315.github.io/Portfolio/
 
 백진혁 https://baekjinh.github.io/PPT_Bundle/
@@ -28,10 +36,3 @@
 
 김해든 https://kimhaedeun.github.io/Portfolio/
 
-이설 https://seol1059.github.io/Portfolio/
-
-조인제 https://tmfhdn.github.io/Final/
-
-장희선 https://gpop917.github.io/portfolio/
-
-최진규 https://lemondy97.github.io/portfoiloWrap/
