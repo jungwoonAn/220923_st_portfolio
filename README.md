@@ -28,11 +28,11 @@
 
 13. 최진규 https://lemondy97.github.io/portfoiloWrap/
 
-김동현(99) https://kdh990315.github.io/Portfolio/
+14. 김동현(99) https://kdh990315.github.io/Portfolio/ (80% 진행중)
 
-백진혁 https://baekjinh.github.io/PPT_Bundle/
+15. 백진혁 https://baekjinh.github.io/PPT_Bundle/ (80% 진행중)
 
-김소리 https://mysr97.github.io/mysr_portfolio/
+16. 김소리 https://mysr97.github.io/mysr_portfolio/ (70% 진행중)
 
-김해든 https://kimhaedeun.github.io/Portfolio/
+17. 김해든 https://kimhaedeun.github.io/Portfolio/ (60% 진행중)
 
