@@ -22,11 +22,11 @@
 
 10. 이설 https://seol1059.github.io/Portfolio/
 
-11. 조인제 https://tmfhdn.github.io/Final/
+11. 최진규 https://lemondy97.github.io/portfoiloWrap/
 
-12. 장희선 https://gpop917.github.io/portfolio/
+12. 조인제 https://tmfhdn.github.io/Final/
 
-13. 최진규 https://lemondy97.github.io/portfoiloWrap/
+13. 장희선 https://gpop917.github.io/portfolio/
 
 14. 백진혁 https://baekjinh.github.io/PPT_Bundle/ (80% 진행중)
 
